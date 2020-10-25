@@ -1,0 +1,36 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory app:title="@string/topopartner_server">
+
+        <EditTextPreference
+            app:key="host"
+            app:title="@string/host"
+            android:defaultValue="https://chalier.fr/topopartner"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+        app:key="api_key"
+        app:title="@string/api_key"
+        android:defaultValue="azerty"
+        app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/tracking">
+
+        <EditTextPreference
+            app:key="location_update_interval"
+            app:title="@string/location_updates_interval"
+            android:defaultValue="10"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+            app:key="location_update_fast_interval"
+            app:title="@string/location_updates_fast_interval"
+            android:defaultValue="5"
+            app:useSimpleSummaryProvider="true" />
+
+ </PreferenceCategory>
+
+</PreferenceScreen>

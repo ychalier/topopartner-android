@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Topopartner</string>
+    <string name="app_version">v%1$s</string>
+    <string name="choose_itinerary">Choose Itinerary</string>
+    <string name="history">History</string>
+    <string name="config">Settings</string>
+    <string name="fetch_itineraries">Fetch Itineraries</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="start_free_trace">Free Trace</string>
+
+
+    <!-- Preference -->
+    <string name="topopartner_server">Topopartner Server</string>
+    <string name="host">Host</string>
+    <string name="api_key">API Key</string>
+    <string name="title_activity_trace">Trace</string>
+    <string name="title_tile_cache_activity">Offline Map Tiles</string>
+    <string name="frame_an_area_and_click_download">Frame an area and click download.</string>
+    <string name="download">Download</string>
+    <string name="tracking_is_status">Tracking is off</string>
+    <string name="start_trace">Start Trace</string>
+    <string name="stop_trace">Stop</string>
+    <string name="pause_trace">Pause</string>
+    <string name="location_updates_interval">Location updates interval (s)</string>
+    <string name="tracking">Tracking</string>
+    <string name="location_updates_fast_interval">Location updates fast interval (s)</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Topopartner</string>
+    <string name="nav_header_subtitle">https://chalier.fr/topopartner</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="settings">Settings</string>
+    <string name="offline_tiles">Offline Tiles</string>
+    <string name="trace">Trace</string>
+
+    <string name="distance">%1$.1fkm</string>
+    <string name="uphill">%1$.0fm</string>
+    <string name="a_track_is_being_recorded">A track is being recorded</string>
+    <string name="distance_meters">%.0fm</string>
+    <string name="distance_kilometers">%.1fkm</string>
+    <string name="distance_null">0m</string>
+    <string name="elapsed_null">00:00</string>
+    <string name="elapsed">%02d:%02d</string>
+    <string name="upload">Upload</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="recording_activity">Recording</string>
+    <string name="title_distance">Distance</string>
+    <string name="title_elapsed">Elapsed</string>
+    <string name="title_uploaded">Uploaded</string>
+    <string name="date_format_date">EEE. MMM. d, yyyy</string>
+    <string name="refresh">Refresh</string>
+    <string name="itinerary_bottom_sheet_title">Not tracking.</string>
+    <string name="itinerary_bottom_sheet_subtitle">No itinerary selected.</string>
+    <string name="itinerary_list_is_empty">Itinerary list is empty.</string>
+    <string name="recording_list_item_title">Walked %.1fkm in %s</string>
+    <string name="recording_list_item_subtitle">Recorded at %s</string>
+
+
+</resources>
